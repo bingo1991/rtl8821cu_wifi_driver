@@ -1,0 +1,2 @@
+# rtl8821cu_wifi_driver
+rtl8821CU_WiFi_linux_v5.2.5.1_22211.20170517_COEX20170310-1212
